@@ -1,0 +1,76 @@
+.align {
+    text-align: right;
+    margin:20px ;
+    padding: 10px;
+}
+
+.alignbox {
+    text-align: center;
+    margin:20px;
+    padding:10px;
+    padding-top: 10px;
+}
+
+.align1 {
+    text-align: center;
+    margin:20px ;
+}
+
+.position {
+    text-align: center;
+    margin:20px ;
+}
+
+a {
+    color: grey;
+    text-decoration: none;
+    margin:10px ;
+    state: hover
+}
+
+h3 {
+    font-size: 15px;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+
+.title {
+    color: #D22B2B;
+    font-size: 22px;
+    padding-left: 40px;
+}
+
+.custom-width {
+    width: 40% !important;
+    border-radius:20px!important;
+}
+
+.button-width {
+    width: 40% !important;
+}
+
+.resize {
+    text-align:left;
+    border-radius: 4px;
+    width: 100px;
+    padding-bottom: 20px;
+}
+
+
+.post {
+    float: right;
+    display: block;
+}
+
+.rowpad {
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+
+
+
+
+
+
+
